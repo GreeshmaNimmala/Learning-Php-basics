@@ -1,1 +1,0 @@
-This is a simple Calculator Program using Switch statement
